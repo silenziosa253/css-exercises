@@ -6,3 +6,12 @@
 .odd-number.three {
     font-size: 24px;
 }
+#two {
+    color: #2318b4;
+    font-size: 36px;
+}
+#four {
+    background-color: hsla(116, 83%, 60%, 0.93);
+    font-size: 24px;
+    font-weight: bold;
+}
